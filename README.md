@@ -1,5 +1,5 @@
 # SEAM
-The implementation of **Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentaion**.
+The implementation of [**Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentaion**](https://arxiv.org/abs/2004.04581).
 ![SEAM network](https://github.com/YudeWang/SEAM/blob/master/network.png)
 
 ## Abstract
