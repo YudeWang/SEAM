@@ -1,5 +1,6 @@
 # SEAM
 The implementation of [**Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentaion**](https://arxiv.org/abs/2004.04581).
+
 You can also download the repository from [https://gitee.com/hibercraft/SEAM](https://gitee.com/hibercraft/SEAM)
 
 ## Abstract
@@ -23,7 +24,7 @@ git clone https://github.com/YudeWang/SEAM.git
 ```
 pip install -r requirements.txt
 ```
-- **Download model weights from [google drive](https://drive.google.com/open?id=1jWsV5Yev-PwKgvvtUM3GnY0ogb50-qKa)** or **[baidu cloud](https://pan.baidu.com/s/1ymaMeF0ASjQ9oCGI9cmqHQ)** (with code 6nmo), including ImageNet pretrained models and our training results.
+- **Download model weights from [google drive](https://drive.google.com/open?id=1jWsV5Yev-PwKgvvtUM3GnY0ogb50-qKa) or [baidu cloud](https://pan.baidu.com/s/1ymaMeF0ASjQ9oCGI9cmqHQ) (with code 6nmo)**, including ImageNet pretrained models and our training results.
 
 - Download PASCAL VOC 2012 devkit (follow instructions in http://host.robots.ox.ac.uk/pascal/VOC/voc2012/#devkit). It is suggested to make a soft link toward downloaded dataset.
 ```
