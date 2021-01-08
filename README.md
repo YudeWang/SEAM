@@ -68,6 +68,9 @@ python infer_aff.py --weights $aff_weights --infer_list [voc12/val.txt | voc12/t
 python evaluation.py --list VOC2012/ImageSets/Segmentation/[val.txt | train.txt] --predict_dir $your_rw_dir --gt_dir VOC2012/SegmentationClass --comment $your_comments --type png
 ```
 
+### Pseudo labels retrain
+Pseudo label retrain on DeepLabv1. Code is available [here](https://github.com/YudeWang/semantic-segmentation-codebase/tree/main/experiment/seamv1-pseudovoc).
+
 ## Citation
 Please cite our paper if the code is helpful to your research.
 ```
